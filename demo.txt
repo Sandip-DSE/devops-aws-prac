@@ -1,6 +1,15 @@
+<<<<<<< Updated upstream
 #task--1002
 
 <html>
 <input type= text/>
 
 </html>
+=======
+##task-1001
+
+int a=100
+int b = 200
+
+echo " a+b"
+>>>>>>> Stashed changes
