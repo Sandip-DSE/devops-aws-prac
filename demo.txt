@@ -13,3 +13,4 @@ int b = 200
 
 echo " a+b"
 >>>>>>> Stashed changes
+hi trying to learn git pull
